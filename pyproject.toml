@@ -13,7 +13,7 @@ python-multipart = "^0.0.6"
 SQLAlchemy = "^2.0.19"
 asyncpg = "^0.28.0"
 
-aiohttp = "3.9.0b0" # python 3.12 support
+aiohttp = "3.9.4" # python 3.12 support
 aiodns = "^3.1.1"
 aiobotocore = "^2.7.0"
 
